@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plants</string>
+    <string name="Next">Следующий</string>
+    <string name="Title">Заголовок</string>
+    <string name="Description">Описание</string>
+    <string name="Done">Готово</string>
+</resources>
